@@ -1,1 +1,12 @@
+<<<<<<< HEAD
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+=======
 theme: jekyll-theme-slate
+>>>>>>> 591c409340dd1aa4b99bdc1f4e768e2c2d03f0e0
