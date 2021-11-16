@@ -6,4 +6,5 @@ relative_links:
 include:
   - CONTRIBUTING.md
   - README.md
-theme: jekyll-theme-slate
+remote_theme: pmarsceill/just-the-docs
+
